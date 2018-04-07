@@ -5,5 +5,5 @@
 
 //接口配置
 export const netApi = {
-  host: "http://www.think51.com/index.php",
+  host: "http://api.51moke.com/index.php",
 }
