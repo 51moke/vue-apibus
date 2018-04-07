@@ -1,8 +1,8 @@
 {
-  "name": "apibus",
+  "name": "vue apibus",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "毛贤德 <394097441@qq.com>",
+  "description": "apibus开发vue项目demo",
+  "author": "老毛 <394097441@qq.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
