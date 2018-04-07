@@ -17,7 +17,7 @@ api.login.checkAuth({userid: 'admin', password: 'admin'})
     console.log('登陆失败', err)
   })
 
-/*
+/* 
  //代理接口
  api.proxyService.aaa(33, 44, 66)
  .then(res=> {
