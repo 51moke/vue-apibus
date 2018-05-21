@@ -5,4 +5,4 @@
 import netAdmin from './admin'
 import netLogin from './login'
 
-export {netAdmin,netLogin};
+export {netAdmin, netLogin}

@@ -3,13 +3,11 @@
  */
 import {ExecAsync} from './exec'
 
-class admin {
-
-  //获取当前管理员信息
-  getAdminInfo() {
-    return ExecAsync('sys.admin.getAdminInfo');
+export default new class {
+  // 获取当前管理员信息
+  getAdminInfo () {
+    return ExecAsync('sys.admin.getAdminInfo')
   }
+}()
 
-}
-
-export default new admin();
+// export default new Admin()

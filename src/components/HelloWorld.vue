@@ -40,6 +40,7 @@
 </template>
 
 <script>
+// let a = 100
 export default {
   name: 'HelloWorld',
   data () {
@@ -52,5 +53,4 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-
 </style>
